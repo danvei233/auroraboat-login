@@ -9,7 +9,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 export default defineConfig(({ command, mode })=>{
     const base =
         mode=== 'production'
-            ? process.env.VITE_ASSET_BASE || '/static/component/auroraboat/'
+            ? process.env.VITE_ASSET_BASE || '/static/component/auroraboat/login/'
             : '/'
 
    return {

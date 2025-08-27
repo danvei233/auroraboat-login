@@ -252,7 +252,7 @@ onMounted(async()=>{
         <div class="card-logo">
 
           <div class="logo">
-            <img class="logo" src="../assets/logo.png" alt="logo">
+            <img class="logo" src="../assets/logo.webp" alt="logo">
           </div>
 <!--          <h1>AuroraBoat</h1>-->
 
